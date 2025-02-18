@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb32f8db-0f86-4f9b-a589-4da56c7840be": {
+      "ProjectGuid": "cb32f8db-0f86-4f9b-a589-4da56c7840be",
+      "DisplayName": "MvcWebServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
