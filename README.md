@@ -32,3 +32,7 @@
 
 2. **MvcWebServer Module**:  
    Navigate to the `MvcWebServer` directory and follow its README to set up and run the web server.
+
+
+## License 
+[MIT License](LICENSE)
